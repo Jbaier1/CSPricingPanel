@@ -1,2 +1,2 @@
-#CSPricingPanel
-Code long Proj.
+#CSPricingPanelProj
+My Code along Proj.
