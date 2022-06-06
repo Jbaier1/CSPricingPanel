@@ -1,3 +1,3 @@
 # CSPricingPanelProj #
 ***
-Code along Project, featuring a pricing panel.
+Code along Project, featuring a basic pricing panel.
